@@ -16,5 +16,4 @@ function superbowlWin(array) {
 
   }
   
-
 superbowlWin(record);
