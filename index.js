@@ -16,4 +16,4 @@ function superbowlWin(array) {
 
   }
   
-superbowlWin(record);
+superbowlWin();
